@@ -1,6 +1,9 @@
 #更新时间2023-01-09
 #https://t.me/ddgksf2021
 
+# > 流媒体emby-porn服务器
+DOMAIN,emby.emby.netyi.cloud
+
 # > 流媒体emby-nexitally服务器
 DOMAIN,emby.nexitally.com
 
@@ -57,24 +60,15 @@ DOMAIN,emby.immtel.com
 
 # > 流媒体Odyssey服务器
 DOMAIN,cf.odysseyplus.site
-DOMAIN,agahk.odysseyplus.site
-DOMAIN,agasg.odysseyplus.site
-DOMAIN,ru.odysseyplus.site
+DOMAIN,us.odysseyplus.site
+DOMAIN,kr.odysseyplus.site
+DOMAIN,jp.odysseyplus.site
 
 # > 流媒体Exflux服务器
 DOMAIN,line.emby.men
 
 # > 流媒体SoCloud服务器
 DOMAIN,emby.run
-
-# > 流媒体普拉斯影业服务器
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
 
 # > 流媒体WaveCloud服务器
 DOMAIN,embyserver.ga
