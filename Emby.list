@@ -9,24 +9,6 @@ DOMAIN,emby.nexitally.com
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
 
-# > 流媒体emby-flowercloud服务器
-DOMAIN,emby.flowercloud.yt
-
-# > 流媒体emby-maying服务器
-DOMAIN,emby.maying.club
-
-# > 流媒体emby-mdss服务器
-DOMAIN,emby.mdss.cloud
-
-# > 流媒体emby-ytoo服务器
-DOMAIN,emby.ytoo.li
-
-# > 流媒体emby-w8ves服务器
-DOMAIN,embyserver.ga
-
-# > 流媒体emby-prpr服务器
-DOMAIN,emby.prprcloud.com
-
 # > 流媒体emby-nyancat服务器
 DOMAIN,emby.nyancat.net
 
@@ -63,14 +45,8 @@ DOMAIN,us.odysseyplus.site
 DOMAIN,kr.odysseyplus.site
 DOMAIN,jp.odysseyplus.site
 
-# > 流媒体Exflux服务器
-DOMAIN,line.emby.men
-
 # > 流媒体SoCloud服务器
 DOMAIN,emby.run
-
-# > 流媒体WaveCloud服务器
-DOMAIN,embyserver.ga
 
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
@@ -94,9 +70,6 @@ DOMAIN,azsgp.embyclub.com
 
 # > 流媒体卡戎服务器
 DOMAIN,play.charontv.com
-
-# > 流媒体大白服务器
-DOMAIN,emby.p-p.men
 
 # > 流媒体莫高雷服务器
 DOMAIN-SUFFIX,mgl.gay
