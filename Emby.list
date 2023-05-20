@@ -1,5 +1,4 @@
-#更新时间2023-01-09
-#https://t.me/ddgksf2021
+#更新时间2023-05-20
 
 # > 流媒体emby-porn服务器
 DOMAIN,emby.netyi.cloud
@@ -53,7 +52,7 @@ DOMAIN,hinet.jmsooo.com
 DOMAIN,cf1.jmsooo.com
 
 # > 流媒体pornemby服务器
-DOMAIN,pornemby.club
+DOMAIN,emby.netyi.cloud
 
 # > 流媒体IMM服务器
 DOMAIN,emby.immtel.com
@@ -99,8 +98,8 @@ DOMAIN,play.charontv.com
 # > 流媒体大白服务器
 DOMAIN,emby.p-p.men
 
-# > 流媒体aiyowei服务器
-DOMAIN,emby.aiyowei.ml
+# > 流媒体莫高雷服务器
+DOMAIN-SUFFIX,mgl.gay
 
 # > 流媒体polo服务器
 DOMAIN-SUFFIX,poloemby.xyz
@@ -109,8 +108,8 @@ DOMAIN-SUFFIX,pololine.ml
 # > 流媒体MisakaF服务器
 DOMAIN-SUFFIX,misakaf.org
 
-# > 流媒体GfwEmby服务器
-DOMAIN-SUFFIX,gfwemby.org
+# > 流媒体TREE服务器
+DOMAIN-SUFFIX,123456.al
 
 # > 流媒体垃圾影音服务器
 DOMAIN-SUFFIX,loseremby.org
@@ -118,7 +117,12 @@ DOMAIN-SUFFIX,loseremby.org
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
 
-# > 流媒体Nebula服务器
-DOMAIN,direct.nebula-emby.com
+# > 流媒体剧狗服务器
+DOMAIN-SUFFIX,ju.fog
 
+# > 流媒体剧狗服务器
+DOMAIN-SUFFIX,ju.fog
+
+# > 流媒体剧狗服务器
+DOMAIN-SUFFIX,ju.fog
 
